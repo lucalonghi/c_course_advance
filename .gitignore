@@ -1,2 +1,10 @@
 /.vscode/*
 *.txt
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
